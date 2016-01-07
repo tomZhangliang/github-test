@@ -36,7 +36,6 @@ public class RrtZsdk  implements Serializable {
 	* 
 	*/ 
 	private		String	zsdkId;
-	
 
 	public	String	 getName(){ 
 		return name;
@@ -85,8 +84,6 @@ public class RrtZsdk  implements Serializable {
 	public	void	setZsdkId(String	 zsdkId){
 		this.zsdkId	=	zsdkId;
 	}
-
-
 
 
 }
